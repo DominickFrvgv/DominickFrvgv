@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @DominickFrvgv
-- 👀 I’m interested in music and programming
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me? e-mail me :) frvgvdominick@gmail.com
+## 👋 Hi, I’m Dominick Fraga ✨
+- 🌱 Currently learning Algorithms and Data Structures
+- 🛹 Interested in sports, music and programming
+- 👽 Pronouns are They/Them
+- 📫 How to reach me: <a href="mailto:frvgvdominick@gmail.com?">frvgvdominick@gmail.com</a>
 
-<!---
-DominickFrvgv/DominickFrvgv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Languages and tools
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)

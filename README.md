@@ -2,7 +2,7 @@
 - 🌱 Currently learning Algorithms and Data Structures
 - 🛹 Interested in sports, music and programming
 - 👽 Pronouns are They/Them
-- 📫 How to reach me: <a href="mailto:frvgvdominick@gmail.com?">frvgvdominick@gmail.com</a>
+
 
 ## 💻 Languages and tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
